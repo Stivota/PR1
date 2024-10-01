@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Steven\\source\\repos\\PR 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|c:\\users\\steven\\source\\repos\\pr 1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|c:\\users\\steven\\source\\repos\\pr 1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|c:\\users\\steven\\source\\repos\\pr 1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|c:\\users\\steven\\source\\repos\\pr 1\\views\\home\\forgot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|solutionrelative:views\\home\\forgot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|c:\\users\\steven\\source\\repos\\pr 1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|c:\\users\\steven\\source\\repos\\pr 1\\views\\home\\modal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|solutionrelative:views\\home\\modal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|c:\\users\\steven\\source\\repos\\pr 1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|c:\\users\\steven\\source\\repos\\pr 1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|c:\\users\\steven\\source\\repos\\pr 1\\proyectogrupo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|solutionrelative:proyectogrupo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|c:\\users\\steven\\source\\repos\\pr 1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|c:\\users\\steven\\source\\repos\\pr 1\\viewmodels\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|solutionrelative:viewmodels\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|c:\\users\\steven\\source\\repos\\pr 1\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|c:\\users\\steven\\source\\repos\\pr 1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|c:\\users\\steven\\source\\repos\\pr 1\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|solutionrelative:views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|c:\\users\\steven\\source\\repos\\pr 1\\views\\account\\service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|solutionrelative:views\\account\\service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|c:\\users\\steven\\source\\repos\\pr 1\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|solutionrelative:viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|c:\\users\\steven\\source\\repos\\pr 1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|c:\\users\\steven\\source\\repos\\pr 1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|c:\\users\\steven\\source\\repos\\pr 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|c:\\users\\steven\\source\\repos\\pr 1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2291F628-434B-40A5-95DC-9E782CFD39D4}|ProyectoGrupo.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "forgot.cshtml",
+              "DocumentMoniker": "C:\\Users\\Steven\\source\\repos\\PR 1\\Views\\Home\\forgot.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\forgot.cshtml",
+              "ToolTip": "C:\\Users\\Steven\\source\\repos\\PR 1\\Views\\Home\\forgot.cshtml",
+              "RelativeToolTip": "Views\\Home\\forgot.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T20:25:31.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Steven\\source\\repos\\PR 1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Steven\\source\\repos\\PR 1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACECAAAAAAAAAAAAADECAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T19:30:29.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "about.cshtml",
+              "DocumentMoniker": "C:\\Users\\Steven\\source\\repos\\PR 1\\Views\\Home\\about.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\about.cshtml",
+              "ToolTip": "C:\\Users\\Steven\\source\\repos\\PR 1\\Views\\Home\\about.cshtml",
+              "RelativeToolTip": "Views\\Home\\about.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8BAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T20:35:09.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProyectoGrupo",
+              "DocumentMoniker": "C:\\Users\\Steven\\source\\repos\\PR 1\\ProyectoGrupo.csproj",
+              "RelativeDocumentMoniker": "ProyectoGrupo.csproj",
+              "ToolTip": "C:\\Users\\Steven\\source\\repos\\PR 1\\ProyectoGrupo.csproj",
+              "RelativeToolTip": "ProyectoGrupo.csproj",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T19:25:31.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ForgotPasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\source\\repos\\PR 1\\ViewModels\\ForgotPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ForgotPasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\Steven\\source\\repos\\PR 1\\ViewModels\\ForgotPasswordViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ForgotPasswordViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:27:49.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Steven\\source\\repos\\PR 1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Steven\\source\\repos\\PR 1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T19:50:51.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Steven\\source\\repos\\PR 1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Steven\\source\\repos\\PR 1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADICAAAAAAAAAAAAAEcCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T19:30:43.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Steven\\source\\repos\\PR 1\\Views\\Home\\contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\contact.cshtml",
+              "ToolTip": "C:\\Users\\Steven\\source\\repos\\PR 1\\Views\\Home\\contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\contact.cshtml",
+              "ViewState": "AQIAAOkAAAAAAAAAAAAAAAIBAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T20:20:42.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "modal.cshtml",
+              "DocumentMoniker": "C:\\Users\\Steven\\source\\repos\\PR 1\\Views\\Home\\modal.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\modal.cshtml",
+              "ToolTip": "C:\\Users\\Steven\\source\\repos\\PR 1\\Views\\Home\\modal.cshtml",
+              "RelativeToolTip": "Views\\Home\\modal.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T20:30:37.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\source\\repos\\PR 1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Steven\\source\\repos\\PR 1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowBoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:24:12.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Steven\\source\\repos\\PR 1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Steven\\source\\repos\\PR 1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T20:36:20.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\source\\repos\\PR 1\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Steven\\source\\repos\\PR 1\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:27:15.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\source\\repos\\PR 1\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Steven\\source\\repos\\PR 1\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:26:44.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Steven\\source\\repos\\PR 1\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Steven\\source\\repos\\PR 1\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T19:29:47.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Steven\\source\\repos\\PR 1\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Steven\\source\\repos\\PR 1\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T19:29:42.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Steven\\source\\repos\\PR 1\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\Steven\\source\\repos\\PR 1\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "Views\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T19:30:11.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\source\\repos\\PR 1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Steven\\source\\repos\\PR 1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:36:14.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "service.cshtml",
+              "DocumentMoniker": "C:\\Users\\Steven\\source\\repos\\PR 1\\Views\\Account\\service.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\service.cshtml",
+              "ToolTip": "C:\\Users\\Steven\\source\\repos\\PR 1\\Views\\Account\\service.cshtml",
+              "RelativeToolTip": "Views\\Account\\service.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T20:13:24.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\source\\repos\\PR 1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Steven\\source\\repos\\PR 1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:35:06.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\source\\repos\\PR 1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Steven\\source\\repos\\PR 1\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:25:10.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
